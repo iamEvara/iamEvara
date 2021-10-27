@@ -99,6 +99,7 @@ https://github.com/iamEvara
 🐧 `Laptop` ~ OS: *Linux* ~ and I am currently trying to dual boot a `Hackinotsh` :green_apple:<br><br>
 💻 `Desktop` ~ OS: *Windows*
 <br>
-⚙ *Tools:*
+
+<br>⚙ *Tools:*
 *IDE*: `Visual Studio Code`<br>
 *Android Emulators:* `Android TV 1080 API 29` ~ `Android TV 720 API 29` ~ `Pixel XL API 30`<br>
