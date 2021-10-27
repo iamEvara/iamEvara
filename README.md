@@ -2,7 +2,10 @@
 
 I am *Evara*, a *Lebanese Software Developer*
 
+<hr>
 👩‍💻 ** My Experiences:**
+<hr>
+
 
 🌐  *Website Development(4y Experience):*
 `PHP` 
@@ -13,6 +16,8 @@ I am *Evara*, a *Lebanese Software Developer*
 `PhpMyAdmin`
 `and more...`
 
+<hr>
+
 ✨ *Flutter(2.5y experience):*
 
 `Riverpod(stage-management)`
@@ -20,10 +25,15 @@ I am *Evara*, a *Lebanese Software Developer*
 `REST API(Could Integrate with any API)`
 `Payments` 
 `Maps`
+`and a lot more...`
+
+<hr>
 
 📱  *Flutter Platforms Experience:*
 
 `MacOS, Linux, Windows, IOS, Web, Android Flutter Development + Some Flutter TV development`
+
+<hr>
 
 🐍 *Python(1y experience):*
 
@@ -33,10 +43,14 @@ I am *Evara*, a *Lebanese Software Developer*
 `Flask`
 `and others...`
 
+<hr>
+
 🗝 *Databases:*
 
 `MySQL` 
 `SQLite`
+
+<hr>
 
 🔥 *Firebase:* 
 
@@ -46,16 +60,24 @@ I am *Evara*, a *Lebanese Software Developer*
 `Real Time Database`
 `Analytics`
 
+<hr>
+
 👨‍🏫 *Languages:*
 
 `English:` Average Level
 
 `Arabic:` Native Language
 
+<hr>
+
 😺 *GitHub(2y Experience)*
 https://github.com/iamEvara
 
+<hr>
+
 🔐 *Pentesting(1y experience)*
+
+<hr>
 
 📂 *Projects:*
 ======================================================
@@ -98,6 +120,10 @@ Check My Public Repos and the below
 🐧 `Laptop` ~ OS: *Linux* ~ and I am currently trying to dual boot a `Hackinotsh` :green_apple:
 💻 `Desktop` ~ OS: *Windows*
 
+<hr>
+
 ⚙ *Tools:*
 *IDE*: `Visual Studio Code`
 *Android Emulators:* `Android TV 1080 API 29` ~ `Android TV 720 API 29` ~ `Pixel XL API 30`
+
+<hr>
