@@ -15,11 +15,12 @@ I am *Evara*, a *Lebanese Software Developer*
 
 ✨ *Flutter(2.5y experience):*
 
-`Riverpod(stage-management)`
+`Riverpod`
 `Firebase`
-`REST API(Could Integrate with any API)`
+`REST API`
 `Payments` 
 `Maps`
+`and more...`
 
 📱  *Flutter Platforms Experience:*
 
