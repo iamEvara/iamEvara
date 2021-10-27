@@ -63,32 +63,32 @@ https://github.com/iamEvara
 <hr>
 
 `Flutter Visual Builder` ~ Application that gives you set of tools to develop Flutter Apps visually(better than Flutter Flow),
-*state:* `Development`
+<br>*state:* `Development`
 
 <hr>
 
 `Flutter Crypto App` ~  Application to track Lebanese Currency and providing News, Prices, Notifications, etc. 
-*state:* `Release`
+<br>*state:* `Release`
 
 <hr>
 
 `Flutter Anime App` ~ Anime App that have real-time scraped-data with the same UI as Netflix
-*state:* `Release`
+<br>*state:* `Release`
 
 <hr>
 
 `Flutter Recipes App` ~ Application that scrapes recipes from a website and displays them in a nice looking Flutter App
-*state:* `Release`
+<br>*state:* `Release`
 
 <hr>
 
 `Flutter App Icon Generator` ~ Application that enables you to create logos with a beautiful UI for Desktop Platforms
-*state:* `Release`
+<br>*state:* `Release`
 
 <hr>
 
 `Flutter Mockup Generator` ~ Application that enables you to create Mockup Screenshots for Google Play and App Store with a beautiful UI for Desktop Platforms
-*state:* `Developing-Postponed`
+<br>*state:* `Developing-Postponed`
 
 <hr>
 
