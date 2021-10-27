@@ -1,16 +1,103 @@
-### Hi there 👋
+:wave: 
 
-<!--
-**iamEvara/iamEvara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am *Evara*, a *Lebanese Software Developer*
 
-Here are some ideas to get you started:
+👩‍💻 ** My Experiences:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐  *Website Development(4y Experience):*
+`PHP` 
+`HTML`
+`CSS`
+`JavaScript`
+`Python Flask`
+`PhpMyAdmin`
+`and more...`
+
+✨ *Flutter(2.5y experience):*
+
+`Riverpod(stage-management)`
+`Firebase`
+`REST API(Could Integrate with any API)`
+`Payments` 
+`Maps`
+
+📱  *Flutter Platforms Experience:*
+
+`MacOS, Linux, Windows, IOS, Web, Android Flutter Development + Some Flutter TV development`
+
+🐍 *Python(1y experience):*
+
+`Scraping(bs4,selenium)`
+`Backend Development(SQL, Database Systems)`
+`Tkinter`
+`Flask`
+`and others...`
+
+🗝 *Databases:*
+
+`MySQL` 
+`SQLite`
+
+🔥 *Firebase:* 
+
+`Authentication` 
+`Messaging` 
+`FireStore`
+`Real Time Database`
+`Analytics`
+
+👨‍🏫 *Languages:*
+
+`English:` Average Level
+
+`Arabic:` Native Language
+
+😺 *GitHub(2y Experience)*
+https://github.com/iamEvara
+
+🔐 *Pentesting(1y experience)*
+
+📂 *Projects:*
+======================================================
+Check My Public Repos and the below 
+======================================================
+
+`Flutter Visual Builder` ~ Application that gives you set of tools to develop Flutter Apps visually(better than Flutter Flow),
+
+*state:* `Development`
+
+
+`Flutter Crypto App` ~  Application to track Lebanese Currency and providing News, Prices, Notifications, etc. 
+
+*state:* `Release`
+
+
+`Flutter Anime App` ~ Anime App that have real-time scraped-data with the same UI as Netflix
+
+*state:* `Release`
+
+
+`Flutter Recipes App` ~ Application that scrapes recipes from a website and displays them in a nice looking Flutter App
+
+*state:* `Release`
+
+
+`Flutter App Icon Generator` ~ Application that enables you to create logos with a beautiful UI for Desktop Platforms
+
+*state:* `Release`
+
+
+`Flutter Mockup Generator` ~ Application that enables you to create Mockup Screenshots for Google Play and App Store with a beautiful UI for Desktop Platforms
+
+*state:* `Developing-Postponed`
+
+======================================================
+
+💻 *My Setup:*
+
+🐧 `Laptop` ~ OS: *Linux* ~ and I am currently trying to dual boot a `Hackinotsh` :green_apple:
+💻 `Desktop` ~ OS: *Windows*
+
+⚙ *Tools:*
+*IDE*: `Visual Studio Code`
+*Android Emulators:* `Android TV 1080 API 29` ~ `Android TV 720 API 29` ~ `Pixel XL API 30`
