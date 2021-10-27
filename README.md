@@ -91,7 +91,7 @@ Check My Public Repos and the below
 
 *state:* `Developing-Postponed`
 
-======================================================
+<hr>
 
 💻 *My Setup:*
 
