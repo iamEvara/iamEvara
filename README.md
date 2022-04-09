@@ -2,8 +2,9 @@
 
 I am *Evara*, a *Lebanese Software Developer*
 
-👩‍💻 ** My Experiences:**
+Visitor Count<br> ![Visitor Count](https://profile-counter.glitch.me/iamEvara/count.svg)
 
+👩‍💻 ** My Experiences:**
 🌐  *Website Development(4y Experience):*
 `PHP` 
 `HTML`
